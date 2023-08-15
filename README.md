@@ -14,4 +14,3 @@ Unity version 2021.3.23f1 and up supported.
 
 
 [License](https://github.com/HeadClot/Overte-Avatar-and-World-Tools/blob/main/LICENSE)
-
