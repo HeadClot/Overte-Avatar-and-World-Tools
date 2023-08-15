@@ -1,0 +1,21 @@
+{
+  "name": "com.overteorg.overteavatarandworldtools",
+  "version": "1.0.0",
+  "displayName": "Overte Avatar and World Tools",
+  "description": "This is an example package",
+  "unity": "2021.3",
+  "unityRelease": "23f1",
+  "documentationUrl": "https://example.com/",
+  "changelogUrl": "https://example.com/changelog.html",
+  "licensesUrl": "https://example.com/licensing.html",
+  "keywords": [
+    "SocialVR",
+    "Virtual Worlds",
+    "Virtual Avatars"
+  ],
+  "author": {
+    "name": "Unity",
+    "email": "unity@example.com",
+    "url": "https://www.unity3d.com"
+  }
+}
