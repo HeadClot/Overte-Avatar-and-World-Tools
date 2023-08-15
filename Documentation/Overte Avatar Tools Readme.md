@@ -3,7 +3,7 @@ Version 0.6.0
 Copyright 2018 High Fidelity, Inc.
 Copyright 2023 Overte e.V.
 
-Note: It is recommended to use Unity version 2019.4.31f1 for this Avatar Exporter.
+Note: It is recommended to use Unity version 2021.3.23f1 for this Avatar Exporter.
 
 To create a new avatar project:
 1. Import your .fbx avatar model into your Unity project's Assets by either dragging and dropping the file into the Assets window or by using Assets menu > Import New Assets.
