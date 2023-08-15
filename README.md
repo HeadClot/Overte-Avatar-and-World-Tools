@@ -3,8 +3,8 @@ Avatar and World tools for the Overte Social VR platform
 
 How to install:
 
-Download the Unitypackage from the releases section.
-Open Unity and import the package.
+* Download the Unitypackage from the releases section.
+* Open Unity and import the package.
 
 Unity version 2021.3.23f1 and up supported. 
 
